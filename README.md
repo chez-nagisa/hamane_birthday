@@ -1,1 +1,1 @@
-This is a birthday message page for my friend.
+This page is for my friend’s birthday message.
